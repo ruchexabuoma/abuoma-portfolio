@@ -5,19 +5,33 @@ const Links = () => {
     <div className='links'>
       <ul>
         <li>
-          <a href='#'>WhatsApp</a>
+          <a
+            href='https://www.whatsapp.com/catalog/2349015135120/'
+            target='_blank'>
+            WhatsApp
+          </a>
         </li>
         <li>
-          <a href='https://mahdiabubakar.me'>Facebook</a>
+          <a href='https://mahdiabubakar.me' target='_blank'>
+            Facebook
+          </a>
         </li>
         <li>
-          <a href='#'>YouTube</a>
+          <a
+            href='https://www.youtube.com/channel/UCPuifixn61f_tiU3jtYxMCA'
+            target='_blank'>
+            YouTube
+          </a>
         </li>
         <li>
-          <a href='#'>Twitter</a>
+          <a href='https://twitter.com/ruchexabuoma' target='_blank'>
+            Twitter
+          </a>
         </li>
         <li>
-          <a href='#'>Instagram</a>
+          <a href='https://www.instagram.com/ruchexabuoma/' target='_blank'>
+            Instagram
+          </a>
         </li>
       </ul>
     </div>
