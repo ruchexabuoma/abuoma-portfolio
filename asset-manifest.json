@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abuoma-porfolio/static/css/main.591b5eee.chunk.css",
+    "main.js": "/abuoma-porfolio/static/js/main.526ed3fa.chunk.js",
+    "main.js.map": "/abuoma-porfolio/static/js/main.526ed3fa.chunk.js.map",
+    "runtime-main.js": "/abuoma-porfolio/static/js/runtime-main.97af9c83.js",
+    "runtime-main.js.map": "/abuoma-porfolio/static/js/runtime-main.97af9c83.js.map",
+    "static/js/2.016e3d9a.chunk.js": "/abuoma-porfolio/static/js/2.016e3d9a.chunk.js",
+    "static/js/2.016e3d9a.chunk.js.map": "/abuoma-porfolio/static/js/2.016e3d9a.chunk.js.map",
+    "static/js/3.62b1f1d2.chunk.js": "/abuoma-porfolio/static/js/3.62b1f1d2.chunk.js",
+    "static/js/3.62b1f1d2.chunk.js.map": "/abuoma-porfolio/static/js/3.62b1f1d2.chunk.js.map",
+    "index.html": "/abuoma-porfolio/index.html",
+    "static/css/main.591b5eee.chunk.css.map": "/abuoma-porfolio/static/css/main.591b5eee.chunk.css.map",
+    "static/js/2.016e3d9a.chunk.js.LICENSE.txt": "/abuoma-porfolio/static/js/2.016e3d9a.chunk.js.LICENSE.txt",
+    "static/media/ruchexabuoma.97b8fd25.jpeg": "/abuoma-porfolio/static/media/ruchexabuoma.97b8fd25.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97af9c83.js",
+    "static/js/2.016e3d9a.chunk.js",
+    "static/css/main.591b5eee.chunk.css",
+    "static/js/main.526ed3fa.chunk.js"
+  ]
+}
