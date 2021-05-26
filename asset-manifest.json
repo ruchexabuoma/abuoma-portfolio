@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/abuoma-porfolio/static/css/main.014f06c5.chunk.css",
-    "main.js": "/abuoma-porfolio/static/js/main.f26b8545.chunk.js",
-    "main.js.map": "/abuoma-porfolio/static/js/main.f26b8545.chunk.js.map",
-    "runtime-main.js": "/abuoma-porfolio/static/js/runtime-main.b455a5cf.js",
-    "runtime-main.js.map": "/abuoma-porfolio/static/js/runtime-main.b455a5cf.js.map",
-    "static/js/2.e574b21d.chunk.js": "/abuoma-porfolio/static/js/2.e574b21d.chunk.js",
-    "static/js/2.e574b21d.chunk.js.map": "/abuoma-porfolio/static/js/2.e574b21d.chunk.js.map",
-    "static/js/3.8b2c64ab.chunk.js": "/abuoma-porfolio/static/js/3.8b2c64ab.chunk.js",
-    "static/js/3.8b2c64ab.chunk.js.map": "/abuoma-porfolio/static/js/3.8b2c64ab.chunk.js.map",
-    "index.html": "/abuoma-porfolio/index.html",
-    "static/css/main.014f06c5.chunk.css.map": "/abuoma-porfolio/static/css/main.014f06c5.chunk.css.map",
-    "static/js/2.e574b21d.chunk.js.LICENSE.txt": "/abuoma-porfolio/static/js/2.e574b21d.chunk.js.LICENSE.txt",
-    "static/media/ruchexabuoma.97b8fd25.jpeg": "/abuoma-porfolio/static/media/ruchexabuoma.97b8fd25.jpeg"
+    "main.css": "/static/css/main.014f06c5.chunk.css",
+    "main.js": "/static/js/main.f26b8545.chunk.js",
+    "main.js.map": "/static/js/main.f26b8545.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.260c7a70.js",
+    "runtime-main.js.map": "/static/js/runtime-main.260c7a70.js.map",
+    "static/js/2.e574b21d.chunk.js": "/static/js/2.e574b21d.chunk.js",
+    "static/js/2.e574b21d.chunk.js.map": "/static/js/2.e574b21d.chunk.js.map",
+    "static/js/3.8b2c64ab.chunk.js": "/static/js/3.8b2c64ab.chunk.js",
+    "static/js/3.8b2c64ab.chunk.js.map": "/static/js/3.8b2c64ab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.014f06c5.chunk.css.map": "/static/css/main.014f06c5.chunk.css.map",
+    "static/js/2.e574b21d.chunk.js.LICENSE.txt": "/static/js/2.e574b21d.chunk.js.LICENSE.txt",
+    "static/media/ruchexabuoma.97b8fd25.jpeg": "/static/media/ruchexabuoma.97b8fd25.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b455a5cf.js",
+    "static/js/runtime-main.260c7a70.js",
     "static/js/2.e574b21d.chunk.js",
     "static/css/main.014f06c5.chunk.css",
     "static/js/main.f26b8545.chunk.js"
