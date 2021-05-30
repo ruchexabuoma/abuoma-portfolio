@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.014f06c5.chunk.css",
-    "main.js": "/static/js/main.f26b8545.chunk.js",
-    "main.js.map": "/static/js/main.f26b8545.chunk.js.map",
+    "main.css": "/static/css/main.84264dff.chunk.css",
+    "main.js": "/static/js/main.ae0ffbf2.chunk.js",
+    "main.js.map": "/static/js/main.ae0ffbf2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.260c7a70.js",
     "runtime-main.js.map": "/static/js/runtime-main.260c7a70.js.map",
     "static/js/2.e574b21d.chunk.js": "/static/js/2.e574b21d.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.8b2c64ab.chunk.js": "/static/js/3.8b2c64ab.chunk.js",
     "static/js/3.8b2c64ab.chunk.js.map": "/static/js/3.8b2c64ab.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.014f06c5.chunk.css.map": "/static/css/main.014f06c5.chunk.css.map",
+    "static/css/main.84264dff.chunk.css.map": "/static/css/main.84264dff.chunk.css.map",
     "static/js/2.e574b21d.chunk.js.LICENSE.txt": "/static/js/2.e574b21d.chunk.js.LICENSE.txt",
     "static/media/ruchexabuoma.97b8fd25.jpeg": "/static/media/ruchexabuoma.97b8fd25.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.260c7a70.js",
     "static/js/2.e574b21d.chunk.js",
-    "static/css/main.014f06c5.chunk.css",
-    "static/js/main.f26b8545.chunk.js"
+    "static/css/main.84264dff.chunk.css",
+    "static/js/main.ae0ffbf2.chunk.js"
   ]
 }
