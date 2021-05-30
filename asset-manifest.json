@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/abuoma-portfolio/static/css/main.84264dff.chunk.css",
+    "main.css": "/abuoma-portfolio/static/css/main.2d82a2b6.chunk.css",
     "main.js": "/abuoma-portfolio/static/js/main.ae0ffbf2.chunk.js",
     "main.js.map": "/abuoma-portfolio/static/js/main.ae0ffbf2.chunk.js.map",
     "runtime-main.js": "/abuoma-portfolio/static/js/runtime-main.55984dcd.js",
@@ -10,14 +10,14 @@
     "static/js/3.8b2c64ab.chunk.js": "/abuoma-portfolio/static/js/3.8b2c64ab.chunk.js",
     "static/js/3.8b2c64ab.chunk.js.map": "/abuoma-portfolio/static/js/3.8b2c64ab.chunk.js.map",
     "index.html": "/abuoma-portfolio/index.html",
-    "static/css/main.84264dff.chunk.css.map": "/abuoma-portfolio/static/css/main.84264dff.chunk.css.map",
+    "static/css/main.2d82a2b6.chunk.css.map": "/abuoma-portfolio/static/css/main.2d82a2b6.chunk.css.map",
     "static/js/2.e574b21d.chunk.js.LICENSE.txt": "/abuoma-portfolio/static/js/2.e574b21d.chunk.js.LICENSE.txt",
     "static/media/ruchexabuoma.97b8fd25.jpeg": "/abuoma-portfolio/static/media/ruchexabuoma.97b8fd25.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.55984dcd.js",
     "static/js/2.e574b21d.chunk.js",
-    "static/css/main.84264dff.chunk.css",
+    "static/css/main.2d82a2b6.chunk.css",
     "static/js/main.ae0ffbf2.chunk.js"
   ]
 }
