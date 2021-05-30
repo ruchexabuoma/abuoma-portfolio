@@ -12,7 +12,7 @@ const Links = () => {
           </a>
         </li>
         <li>
-          <a href='https://mahdiabubakar.me' target='_blank'>
+          <a href='https://web.facebook.com/ruchexabuoma' target='_blank'>
             Facebook
           </a>
         </li>
